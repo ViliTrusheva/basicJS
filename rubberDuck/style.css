@@ -1,0 +1,9 @@
+.duck {
+  width: 50px;
+  height: 60px;
+}
+
+header {
+  display: flex;
+  gap: 1rem;
+}
